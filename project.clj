@@ -1,4 +1,4 @@
-(defproject com.soundcloud/prometheus-clj "2.4.1"
+(defproject com.soundcloud/prometheus-clj "2.4.2"
   :description "Clojure wrappers for the Prometheus java client"
   :url "https://github.com/soundcloud/prometheus-clj"
 
